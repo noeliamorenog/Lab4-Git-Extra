@@ -1,9 +1,4 @@
 * Este es un archivo de ejemplo.
 *
-<<<<<<< HEAD
-* Estas tres primeras líneas estaban escritas inicialmente.
-*
 * Esta es la copia unión del repositorio local y de GitHub
-=======
-* Esta es la copia de GitHub
->>>>>>> 1d84e49d2fa3fe70bed3c5130093b2e3efb7dd3e
+
