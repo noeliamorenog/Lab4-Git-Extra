@@ -1,2 +1,2 @@
 # lab4-Git
-Contenidos práctica 4 -Git CNIAR 
+Contenidos Laboratorio 4 - Git CNIAR 
